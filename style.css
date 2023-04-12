@@ -67,3 +67,24 @@ p{
     padding:0  15%;
     text-align: center;
 }
+/*skill*/
+
+.skills .heading{
+        text-align: center;
+        text-decoration: underline;
+}
+
+.skills{
+    margin:25px;
+    padding: 0 40%;;
+}
+.skills label{
+    font-size:50 px;
+}
+
+.skills #file{
+    font-size:35px;
+    display: flex;
+    align-items: center;
+   
+}
